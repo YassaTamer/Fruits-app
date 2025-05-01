@@ -1,16 +1,18 @@
-# fruits
+# Fruits App 🍊
 
-A new Flutter project.
+A simple and clean fruits e-commerce UI built with Flutter as a training project to improve design-to-code conversion skills from Figma.
 
-## Getting Started
+## 📱 Features
+- Display fruit products with images, prices, and ratings
+- Responsive and modern card UI
+- Reusable product item components
+- Fully written in Dart with Flutter
 
-This project is a starting point for a Flutter application.
+## 🎯 Purpose
+This project was created as a training exercise to practice converting a Figma design into a Flutter layout with clean and maintainable code.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
+- Flutter
+- Dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### LinkedIn profile = [https://www.linkedin.com/in/yassa-shahat-1aa382206/]
